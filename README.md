@@ -1,5 +1,3 @@
-Sure, I'd be happy to help you draft a README file for your GitHub repository. Here's a basic template you can customize to fit your project:
-
 ---
 
 # Student Spending Analytics App
