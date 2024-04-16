@@ -47,7 +47,7 @@ This Data Science application provides analytics on student spending habits acro
 1. Run the application:
 
    ```bash
-   python app.py
+   streamlit run std_spending.py
    ```
 
 2. Access the app via your web browser at `http://localhost:5000`.
