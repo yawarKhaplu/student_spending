@@ -72,5 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Python, Flask, and Plotly.
 
 ---
-
-Feel free to customize the sections and content as needed, and don't forget to replace the placeholders with actual links, screenshots, and other relevant information specific to your project.
